@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Integrar-FA</string>
     <string name="action_settings">Settings</string>
+    <string name="exit">Salir</string>
 
     <string name="facebook_app_id">376363696044194</string>
 
